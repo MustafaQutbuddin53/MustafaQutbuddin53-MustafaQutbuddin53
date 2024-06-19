@@ -3,6 +3,8 @@
 ## About Me
 
 I am an aspiring data analyst with strong foundation in Marketing & Sales and expertise in SQL, R Studio, Power BI, Excel, Google Analytics, and Looker Studio. I enjoy transforming data into actionable insights and helping businesses make informed decisions through data-driven strategies.
+<img src="" alt="Your Image" align="right" width="300">
+
 
 ## Skills
 
