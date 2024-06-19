@@ -51,7 +51,7 @@ In the final phase, the team interpreted the results of the predictive models an
 
 By following these three phases, the project provided valuable insights into store sales forecasting for the Fall 2023 season, helping "Favorita" retail stores make informed decisions to optimize their sales strategies.
 - **Tools Used**: Microsoft Excel and RStudio.
-- **Link**: [Link to project repository or hosted project]
+- **Link**: [Store Sales - Time Series Forecasting](Group_22_Fall23_AAMD.pdf)
 
 ## Contact Me
 
