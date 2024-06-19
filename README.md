@@ -33,7 +33,6 @@ All KPIs—three from SQL and three from Excel—were integrated into Power BI. 
 
 - **Tools Used**: SQL, Power BI, and Microsoft Excel.
 - **Link**: [SQL File](DMV_Term_Project.sql), [Microsoft Excel File](DMV_TermProject_ExcelFile.xlsx), [Power BI File](DMV_Term_Project PBI File.pbix)
-- 
 
 
 ### Project # 2: Store Sales - Time Series Forecasting
