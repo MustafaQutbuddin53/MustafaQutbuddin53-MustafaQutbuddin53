@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate data analyst with expertise in SQL, R Studio, Power BI, Excel, Google Analytics, and Looker Studio. I enjoy transforming data into actionable insights and helping businesses make informed decisions through data-driven strategies.
+I am an aspiring data analyst with strong foundation in Marketing & Sales and expertise in SQL, R Studio, Power BI, Excel, Google Analytics, and Looker Studio. I enjoy transforming data into actionable insights and helping businesses make informed decisions through data-driven strategies.
 
 ## Skills
 
