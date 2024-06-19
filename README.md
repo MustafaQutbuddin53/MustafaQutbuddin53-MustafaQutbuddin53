@@ -32,7 +32,7 @@ All KPIs—three from SQL and three from Excel—were integrated into Power BI. 
 
 
 - **Tools Used**: SQL, Power BI, and Microsoft Excel.
-- **Link**: [SQL File](DMV_Term_Project.sql), [Microsoft Excel File](DMV_TermProject_ExcelFile.xlsx), [Power BI File]([DMV_Term_Project PBI File.pbix](https://github.com/MustafaQutbuddin53/Data-Analytics/blob/4028e9e90aaa95a67e2cc2fbc98e83b5c8cca783/DMV_Term_Project%20PBI%20File.pbix)
+- **Link**: [SQL File](DMV_Term_Project.sql), [Microsoft Excel File](DMV_TermProject_ExcelFile.xlsx), [Power BI File](https://github.com/MustafaQutbuddin53/Data-Analytics/blob/4028e9e90aaa95a67e2cc2fbc98e83b5c8cca783/DMV_Term_Project%20PBI%20File.pbix)
   
 
 
