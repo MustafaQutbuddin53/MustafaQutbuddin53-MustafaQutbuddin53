@@ -37,7 +37,7 @@ All KPIs—three from SQL and three from Excel—were integrated into Power BI. 
 
 **Dashboard**
 
-![Banner](https://github.com/MustafaQutbuddin53/Data-Analytics/blob/5ca212e648957350f3002521864ab0b0a3a0a51e/DMV%20Dashboard.png)
+![Alt Text](https://github.com/MustafaQutbuddin53/Data-Analytics/blob/5ca212e648957350f3002521864ab0b0a3a0a51e/DMV%20Dashboard.png)
   
 
 
